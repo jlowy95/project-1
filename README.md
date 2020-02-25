@@ -40,10 +40,12 @@
    - Code and processing for visualization of deaths by city and by county
     
    - Includes interactive heatmap of deaths by city and heatmap/static image of deaths by county
+   
 ***Deaths Per Capita.ipynb***
    - Code and processing for visualization of deaths per capita
     
    - returns DeathsPerCapita.png
+   
 ***Heatmap By Drug.ipynb***
    - Code and processing for visualization of deaths by drug by city
     
