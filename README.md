@@ -3,9 +3,9 @@
 
 ### Authors: Josh Lowy, Javier Gustamante, Jo-Ann Elias
 
-###### /Charts - Exported charts and static visualizations
+***/Charts - Exported charts and static visualizations***
 
-###### /Resources - Original and cleaned data csv's
+***/Resources - Original and cleaned data csv's***
     CityCounts.ipynb
     
         -Notebook used to further clean data for mapping purposes and added latitude/longitude information
@@ -28,22 +28,22 @@
     
         -Cleaned data with latitude longitude information
         
-###### /Cleanup - Jupyter notebook used to clean the original data
+***/Cleanup - Jupyter notebook used to clean the original data***
 
-###### Death Count by Drug.ipynb
+***Death Count by Drug.ipynb***
     -Code and processing for investigations of number of deaths by drug
     
     -returns DrugCountBar.png, DrugPresencePie.png, and NumDrugsBar.png
     
-###### Death Location Weighted Maps.ipynb
+***Death Location Weighted Maps.ipynb***
     -Code and processing for visualization of deaths by city and by county
     
     -Includes interactive heatmap of deaths by city and heatmap/static image of deaths by county
-###### Deaths Per Capita.ipynb
+***Deaths Per Capita.ipynb***
     -Code and processing for visualization of deaths per capita
     
     -returns DeathsPerCapita.png
-###### Heatmap By Drug.ipynb
+***Heatmap By Drug.ipynb***
     -Code and processing for visualization of deaths by drug by city
     
     -Includes interactive multi-layer heatmap
