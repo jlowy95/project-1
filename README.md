@@ -6,7 +6,8 @@
 ***/Charts - Exported charts and static visualizations***
 
 ***/Resources - Original and cleaned data csv's***
-    CityCounts.ipynb
+   
+   CityCounts.ipynb
     
         -Notebook used to further clean data for mapping purposes and added latitude/longitude information
         
