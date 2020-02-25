@@ -7,27 +7,27 @@
 
 ***/Resources - Original and cleaned data csv's***
    
-   CityCounts.ipynb
+   - CityCounts.ipynb
     
-        -Notebook used to further clean data for mapping purposes and added latitude/longitude information
+      - -Notebook used to further clean data for mapping purposes and added latitude/longitude information
         
-        -returns the DrugsbyCityWLatLng.csv
+      - -returns the DrugsbyCityWLatLng.csv
         
-    Accidental_Drug_Related_Deaths_2012-2018.csv from [Data.gov](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
+   - Accidental_Drug_Related_Deaths_2012-2018.csv from [Data.gov](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
     
-        -Original data source
+      - -Original data source
         
-    drug_data_death_clean.csv
+   - drug_data_death_clean.csv
     
-        -Cleaned data created from Cleanup notebook
+      - -Cleaned data created from Cleanup notebook
         
-    pop_towns2018.csv from [CT.gov](https://portal.ct.gov/DPH/Health-Information-Systems--Reporting/Population/Annual-Town-and-County-Population-for-Connecticut)
+   - -pop_towns2018.csv from [CT.gov](https://portal.ct.gov/DPH/Health-Information-Systems--Reporting/Population/Annual-Town-and-County-Population-for-Connecticut)
     
-        -Supplemental data for population comparisons
+      - -Supplemental data for population comparisons
         
-    DrugsbyCityWLatLng.csv
+   - -DrugsbyCityWLatLng.csv
     
-        -Cleaned data with latitude longitude information
+      - -Cleaned data with latitude longitude information
         
 ***/Cleanup - Jupyter notebook used to clean the original data***
 
