@@ -33,8 +33,10 @@
 
 ***Death Count by Drug.ipynb***
    - Code and processing for investigations of number of deaths by drug
+   
+   - Code and processing for investigations of the responsibility of fentanyl
     
-   - returns DrugCountBar.png, DrugPresencePie.png, and NumDrugsBar.png
+   - returns DrugCountBar.png, DrugPresencePie.png, FentanylRelatedDeathsBar.png, FentanylStackedBar.png, and NumDrugsBar.png
     
 ***Death Location Weighted Maps.ipynb***
    - Code and processing for visualization of deaths by city and by county
