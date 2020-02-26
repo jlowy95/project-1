@@ -1,7 +1,7 @@
 # Project-1
 ## UCD Data Analytics Bootcamp Project 1
 
-### Authors: Josh Lowy, Javier Gustamante, Jo-Ann Elias
+### Authors: Josh Lowy, Javier Bustamante, Jo-Ann Elias
 
 ***/Charts - Exported charts and static visualizations***
 
